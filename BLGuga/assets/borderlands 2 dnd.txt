@@ -1,0 +1,90 @@
+rpgtps classes https://lowlidev.com.au/borderlands/blp/skill-trees/ gem stone 25 point spesi 
+
+bl2 classes https://bl2skills.com/vanilla.html
+
+Enemy http://blstats.com/
+
+Maps https://mapgenie.io/borderlands-2/maps/world
+
+dice https://www.dnddiceroller.com/ 
+
+Elemental damage :
+
+Corrosive | +4 damage to any unshielded enemy who primarily armor (robots, vehicles, stone golems, etc.) vs shild -2
+Fire | +4 damage to any unshielded enemy who's primarily animal or vegetable (e.g., anything living). vs shild -2
+shock | +5 damage to any shielded enemy vs flesh and armor -2
+Slag | gives vantage for 3 turn 
+Explosive | +3 damage vs flesh and shild -3 vs armor
+non elemental | -1 to crit (50% dmg + bonus) vs shild and mineral -2 damage
+
+
+loot-weapon
+
+
+drop rate d100                       equip d10                      company d8                               ability d12              
+                   
+bianco       (100-66)                pistola (1) crit               jakobs (1) 10%crit+d6 -1to crit           n/a (1)                      
+verde        (65-41)   +4            shotgun (2) crit               hyperion (2) +d4-1 acc                    +cac 1d6 (2)               
+blu          (40-24)   2d            fucile d'assalto (3) crit      vladof (3) 1in6 no ammo                   -ammo 1in6  (3)         
+viola        (23-11)   3d            smg (4) crit                   maliwan (4) d4 ele+2 ele                  +acc +1 (4)             
+leggendario  (10-1)                  checchino (5) crit             dahl (5) 3 amm con higroll+ndice+5        +dubble +1d-ndice-2 +ammo con (5)              
+                                     rpg (6) no                     tediore (6) left ammo +exp bns            +shock /+slow (6)                                
+                                     granade (7) no                 torgue (7) +1 dmg 1.5/3/4.5 exp range     +corr /1dmg evry turn (7)                   
+                                     shild (8)                      bandit (8) +mag 25%                       +fire /dmg=money (8)
+                                     2x money (9)                                                             +slag /retry dmg (9)
+                                     relic (10)                                                               +dmg +10% (10)
+                                                                                                              +mag 20% (11)
+                                                                                                              +crit +10%+d6 (12) 
+
+shild                                                                      relic d20                                                   
+                   
+jakobs    +shild hp +8/10/14/18  +2/+3/+3/+4 turn charge                   shild + 2/4/6/8 hp 0/0/-1/-1 turn charge                   (1)   
+hyperion  +amp dmg +2/+4/+7/+10 -2/-3/-4/-5 hp                             + ammo supply 10%/15%/20%/25%                              (2)
+vladof    +ass 1in12/1in10/1in8/1in6 ammo+                                 cac +1/+3/+5/+7 dmg  +1/+1/+2/+2 cac acc                   (3)
+maliwan   +ca 1/1/2/2 ele -1/-2/-2/-3                                      + elemental 1ele/1ele/2ele/2ele +1/+2/+3/+4                (4)   
+dahl      1in12/1in10/1in8/1in6 hit booster                                + non ele +11/+1/+2/+2 dmg -0/-1/-1/-2 to crit              (5)   
+tediore   hp +1/+3/+4/+5 -0/-0/-1/-2 charge                                + exp +2/+2/+3/+4 range +1/+2/+2/+3 dmg                    (6)                     
+torgue    dmg when hp0 1d8/1d12/1d20/3d20 +exp bns                         + max hp 15%/20%/25%/30%                                   (7)
+bandit    when shield 0 +dmg cac +3/+5/+7/+10 +1/+2/+2/+3 turn charge      + ffy turn +1/+1/+2/+2 +hp regain 10%/20%/25%/30%          (8)
+                                                                           ca 0/0/+1/+1 when shild 0 ca +1/+2/+2/+3                   (9)
+hp shild :                                                                 d100 -1/-1/-2/-2 0/1/1/2 change                            (10)
+2d4 +2  6 turn                                                             action skill -3/-6/-9/-12 turn +1/+2/+2/+3 turn durability (11)
+2d6 +3  6 turn                                                             Restores 2%+3/4%+4/6%+6/9%+9 hp on kill                    (12)
+2d8 +4  6 turn                                                             d6 (weapon) +2/+3/+4/+5                                    (13)
+2d12 +6 5 turn                                                             d8 (company) +1/+2/+3/+4                                   (14)
+                                                                           +crit +2/+3/+4/+5 to crit 0/0/-1/-1                        (15)
+                                                                           +range 5%/10%/15%/20%                                      (16)
+                                                                           +mag 5%/10%/15%/20%                                        (17)
+                                                                           +crit 10%/15%/20%/25%                                      (18)
+                                                                           wpn acc  0/0/+1/+1 when shild 0 +1/+2/+2/+3                (19)
+                                                                           money +1d+3/+2d+6/+3d+9/+d4+12                             (20)
+
+ammo type                     ammo weapons               ammo supply         range          
+
+smg d4x2 -1 acc               20/24/30/36 2ammo con      500                 >6/10.5/16.5 
+pst d6   +1 acc               6/8/10/12                  300	             >25.5
+stg d10  +3/0/-3 acc          2/4/6/8                    100                 >3/6/10.5
+asr d8   +2 acc               25/35/50/60                420                 >30
+snp d12  -4/+4 acc +20%crit   3/5/7/9                    60                  >10.5/45
+rpg d20  0 acc                2/3/5/6                    15                  >25.5 inner 1/3/4
+gnr d6/d12/d20/3d20           n/a                        5                   >25.5 inner 1.5/4.5/6
+
+
+
+drop sorces
+
+gun vendor 3 drop +9 d100 price : (white:20/green:40/blue:60/purple:80/leggendary:300)
+zed vendor 1 drop shild +9 d100 price : (heal:hp miss x2)
+ammo vendor 1 drop grn +9 d100 price : (smg:1x5/pst:1x3/stg:2x1/asr:1x1/snp:5x1/rpg:10x1/grn:8x1)
+white box 3 drop +8 d100
+red box 5 drop 0 d100
+
+                                                                     
+
+			
+
+
+
+
+
+	

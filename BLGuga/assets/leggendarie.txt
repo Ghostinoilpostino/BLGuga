@@ -1,0 +1,98 @@
+leggendary weapon 
+
+jacobs
+
+-maggie 4d10 dmg 
+-striker 3d10 25 range standard 20%crit
+-hammer buster 4d8+30% crit
+-bone shredder 2d4x3 1 ammo con
+-skull smasher 5d10+50%crit 
+-12 pounder non elemental bonus+exp bonus 3d20+10
+-dyna-migth 1 in 4 100dmg
+
+-fable tortoise 4d12+30 12 turn charge half movement speed when shild 0 dubble movement speed
+ 
+
+hyperion
+
+-logans gun 3d20+exp+fire dmg after 1 turn 2 range
+-conferance call 3d10 2 pellet left and right from hit 
+-damned Chief 5d8 +6acc +30%crit 1turn delay
+-bitch 3d4x2 d8-2 acc +30% crit dmg
+-invader 3d12 +d4-1 acc 3 amm con +18
+-coil/hive/furnace/blight On Impact projectile d20 dmg 7 turn 15 range 2d8 ele dmg 
+-1d4 element ;quasar/toxix/ Creates a Singularity deals 2d20 Shock 3 turn
+
+-the bee 2d12 +6 5 turn x2 weapon dmg when shild full
+
+vladof
+
+-the infinity 2d6x2 dmg 0 ammo con 
+-Butcher 2d10x2 1in4 Chance to add 2 Bullets to its magazine
+-Shredifier 2d8x3 4 ammo con
+-fast talker 2d4x4 4 ammo con
+-lyuda 4d12 +40% 25 range x3 dmg
+-mongol 2d20 6 range x2 12 range x3 24 range x2 
+-1d4 element ; storm front/pandemic/fire bee/pripyat 2d20 + 3 turn 2d8 dmg+element
+
+-sham 5in6 ammo+ 2d12 +6 5 tur
+
+maliwan
+
+-1d4 element ;tunder bolt/acid bolt/flame bolt/eridium bolt; fist On Impact projectile 2d6 dmg 3 turn 5 range 2d8 element dmg 
+-Boomacorn 2d10 +3shock dmg +3corr dmg +3fire dmg +slag 5 turn  
+-rainblow  2d8 1d4 element (4 exp) +10 ele dmg 
+-1d4 element ;tosterbath/nuclearplant/hellfire/eridumcage 2d4x2 3 ammo con +6 ele+exp
+-1d4 element ;storm/acid rain/volcano/vault 2d12+20%crit +12ele+exp
+-Panophobia On Impact projectile 2d20 +2evry ele dmg xturn
+-1d4 element ;chain lightning/stinking cloud/fire storm/magic missile homing d20 +4 ele x 4 turn 8 range
+
+-black hole Creates a Singularity when shild 0 deals 2d20+exp
+
+dahl
+
+-1d4 element ;Hector's Paradise/hornet/fireant/stabberjabber d6x3 4 ammo con +4eledmg+exp
+-Sledge's Shotgun d10 3 amm con +16dmg knockback 6 range 1 turn delay
+-veruc d8 +15dmg 3 ammo con 10 range x2 15 range x3 35 range x1
+-emperor 2d4 +10 3 ammo con 16 range no penalty
+-pitchfork d12 +20 3 ammo con 4 range inner bullet 
+-target aquired d20+25 3 ammo con homing 
+-buncing bonny 2d20 On Impact projectile 6 range inner bullet 4 turn 10 dmg
+
+-wisky tango foxtrot 1in6 booster 1 turn pick up or 10 exp dmg  
+
+tediore
+
+-Gunerang 2d6 30 mag reload can crit 1in6 self damage/2
+-deliverance 2d10 on reload homing x4 turn d8 dmg 1 max 
+-lawn protector 3d8 front facing shield +3ca 1 evry 2 turn 
+-baby maker 2d4x2 47 mag on reload at 6 range no falloff
+-ez4kill 2d12 +150%+12 crit to crit -2
+-bunny on reload 2 turn homing 
+-fastball -2 acc 2 range 60
+
+-naught 5 hp infinite 
+
+togue
+
+-unkept harold 4d6 2 ammo con +exp 8 range x2 10 range x3 
+-carnage 2d20 8 range standard +exp+non elemental bonus
+-kerblaster 2d8 +exp 4 inner range 6 half range 
+-Labophyto x turn hold 2ammo stored when fired ammo storedx4
+-middle finger 2d12 +4/-4 acc >10/45 range +exp 6 range x2 4 range 3x 1 range x4 self damage
+-nukem 1d100 +exp
+-bonus pacage 5d20 +exp
+
+-third pec 2d4+2 hp when shield 0 +5dmg -3dmg recived
+
+bandit
+
+-1d4 element ;lee/gub/nogard/gniwdoolb 3d6 40mag 
+-hellwalker 3d10+10fire 1in4 no ammo con
+-madhouse 3d8 -3 acc if miss x2 dmg near targhet 100 mag
+-the bane 6d4x2 3 ammo conn 60 mag 1/4 moovement speed https://www.youtube.com/watch?v=vpYj7GzC6LE
+-the long nail 3d12 ignore shild deals 3 shild dmg self xshot 18 mag 
+-badabom 4d20 12 ammo 2/6/8 inner range
+-1d4 element ;/fish slap/pipe bomb/echo/nap-less 2d20 dmg +non ele +melee bns/x2exp/shild off/dmg=x2money  
+
+-Pun-chee +cac dmg +7 -1 to crit when 0 +cac dmg +15 5 turn charge -2 to crit +2 cac acc 
