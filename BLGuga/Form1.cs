@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Net.Sockets;
 using System.Text;
@@ -289,6 +290,36 @@ namespace BLGuga
         private void Form1_Load(object sender, EventArgs e)
         {
             inputRollMod.SelectedIndex = 0;
+        }
+
+        private void btnZaino_Click(object sender, EventArgs e)
+        {
+            const string FILEPATH = "C:\\ProgramData\\zaino.csv";
+
+            try
+            {
+                string csv = File.ReadAllText(FILEPATH);
+                Form4 frmZaino = new Form4(csv);
+                frmZaino.ShowDialog();
+                frmZaino.Dispose();
+            } catch (Exception)
+            {
+                MessageBox.Show("Non hai nessun elemento nello zaino.", "Borderlands Loot Generator");
+            }
+        }
+
+        private void btnZainoDebug_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                StreamWriter s = File.CreateText("C:\\ProgramData\\zaino.csv");
+                s.WriteLine("mamaguevo");
+                s.Close();
+                s.Dispose();
+            } catch (Exception)
+            {
+                MessageBox.Show("impossibile creare file");
+            }
         }
     }
 }

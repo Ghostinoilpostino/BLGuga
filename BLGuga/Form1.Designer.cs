@@ -41,6 +41,8 @@
             this.lbl100 = new System.Windows.Forms.Label();
             this.lblRollMod = new System.Windows.Forms.Label();
             this.inputRollMod = new System.Windows.Forms.ComboBox();
+            this.btnZaino = new System.Windows.Forms.Button();
+            this.btnZainoDebug = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.inputRarMod)).BeginInit();
             this.SuspendLayout();
             // 
@@ -202,6 +204,28 @@
             this.inputRollMod.Size = new System.Drawing.Size(121, 28);
             this.inputRollMod.TabIndex = 11;
             // 
+            // btnZaino
+            // 
+            this.btnZaino.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.btnZaino.Location = new System.Drawing.Point(680, 574);
+            this.btnZaino.Name = "btnZaino";
+            this.btnZaino.Size = new System.Drawing.Size(66, 25);
+            this.btnZaino.TabIndex = 12;
+            this.btnZaino.Tag = "DEBUG";
+            this.btnZaino.Text = "Zaino";
+            this.btnZaino.UseVisualStyleBackColor = true;
+            this.btnZaino.Click += new System.EventHandler(this.btnZaino_Click);
+            // 
+            // btnZainoDebug
+            // 
+            this.btnZainoDebug.Location = new System.Drawing.Point(31, 564);
+            this.btnZainoDebug.Name = "btnZainoDebug";
+            this.btnZainoDebug.Size = new System.Drawing.Size(130, 40);
+            this.btnZainoDebug.TabIndex = 13;
+            this.btnZainoDebug.Text = "DEBUG ZAINO";
+            this.btnZainoDebug.UseVisualStyleBackColor = true;
+            this.btnZainoDebug.Click += new System.EventHandler(this.btnZainoDebug_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -209,6 +233,8 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 620);
+            this.Controls.Add(this.btnZainoDebug);
+            this.Controls.Add(this.btnZaino);
             this.Controls.Add(this.inputRollMod);
             this.Controls.Add(this.lblRollMod);
             this.Controls.Add(this.lbl100);
@@ -245,6 +271,8 @@
         private System.Windows.Forms.Label lbl100;
         private System.Windows.Forms.Label lblRollMod;
         private System.Windows.Forms.ComboBox inputRollMod;
+        private System.Windows.Forms.Button btnZaino;
+        private System.Windows.Forms.Button btnZainoDebug;
     }
 }
 
